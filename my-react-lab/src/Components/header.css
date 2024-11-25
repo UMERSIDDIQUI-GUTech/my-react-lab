@@ -1,0 +1,13 @@
+.Head{
+    display: flex;
+    justify-content: center;
+}
+.Hea{
+    color: burlywood;
+    background-color: yellow;
+    width: fit-content;
+    justify-content: center;
+    align-items: center;
+}
+
+
